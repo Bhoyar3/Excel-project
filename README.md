@@ -1,8 +1,12 @@
 <h1 align="center">Harry Store Data analysis (Interative Dashboard creation using Excel)</h1>
-<p align="center"><B>Project Description</B></p>
+<h3><p align="center"><B>Project Description</B></p></h3>
 
 The Harry Store strive to compile an annual sales report for the fiscal year 2023. This comprehensive document aims to provide the owner with valuable insights into customer behavior and market trends. The analysis derived from the report is intended to inform strategic decision-making and to enhance sales performance and foster growth in the upcoming year, 2024.
 <p align="Left"><b>Dataset used</b></p>
+<ul>
+ <li>[Harry Store Dataset],()</li>
+</ul>
+
 <p align="Left"><b>Questions (KPIs)</b></p>
 <ul>
  <li>Compare the sales and orders using single chart.</li>
@@ -23,4 +27,15 @@ The Harry Store strive to compile an annual sales report for the fiscal year 202
  <li>Created pivot tables according to the question asked.</li>
  <li>Merge all pivote tables into one dashboard and apply slicer to make dashboard interactive and dynamic.</li>
 </ul>
+
+<p align="left"><b>Project Insight</b></p>
+<ul>
+ <li>Women customers are more likely to buy products compared to men(~65%).</li>
+ <li>The states of maharashtra, karnataka and uttar pradesh are the top 3 product buyers.</li>
+ <li>The adult age group(30-49 yrs)is max contributing(~50%) and buys the most products.</li>
+ <li>The Maximum number of products customer orders from Amazon, Flipkart and Myntra channels.</li>
+</ul>
+
+<p align="left"><b>Final Conclusion</b></p>
+To improve sales of Harry store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showings ads/offers/coupons available on Amazon, Flipkart and Myntra.
 
