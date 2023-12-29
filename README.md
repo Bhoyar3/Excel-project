@@ -1,4 +1,4 @@
-<h1 align="center">Harry Store Data analysis (Interative Dashboard creation using Excel)</h1>
+<h1 align="center">Harry Store Data analysis (Interative Dashboard creation using Ms Excel)</h1>
 <h3><p align="Left"><b>Project Description</b></p></h3>
 
 The Harry Store strive to compile an annual sales report for the fiscal year 2023. This comprehensive document aims to provide the owner with valuable insights into customer behavior and market trends. The analysis derived from the report is intended to inform strategic decision-making and to enhance sales performance and foster growth in the upcoming year, 2024.
