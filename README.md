@@ -28,6 +28,8 @@ The Harry Store strive to compile an annual sales report for the fiscal year 202
  <li>Merge all pivote tables into one dashboard and apply slicer to make dashboard interactive and dynamic.</li>
 </ul>
 
+<h2><p align="left"><b>Dashboard</b></h2>
+![alt text][https://github.com/[Bhoyar3]/[snapshot of harry project]/blob/[branch]/image.png?raw=true)
 
 
 <h2><p align="left"><b>Project Insight</b></p></h2>
