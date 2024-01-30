@@ -28,6 +28,8 @@ The Harry Store strive to compile an annual sales report for the fiscal year 202
  <li>Merge all pivote tables into one dashboard and apply slicer to make dashboard interactive and dynamic.</li>
 </ul>
 
+
+
 <h2><p align="left"><b>Project Insight</b></p></h2>
 <ul>
  <li>Women customers are more likely to buy products compared to men(~65%).</li>
