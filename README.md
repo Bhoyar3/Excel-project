@@ -31,9 +31,6 @@ The Harry Store strive to compile an annual sales report for the fiscal year 202
 <h2><p align="left"><b>Dashboard</b></h2>
 <img src="https://github.com/Bhoyar3/Excel-project/blob/main/snapshot%20of%20harry%20project.PNG" alt="dashboard" title="Dashboard">
 
-![Image Alt text](https://github.com/Bhoyar3/Excel-project/blob/main/snapshot%20of%20harry%20project.PNG "Dashboard")
-
-
 <h2><p align="left"><b>Project Insight</b></p></h2>
 <ul>
  <li>Women customers are more likely to buy products compared to men(~65%).</li>
