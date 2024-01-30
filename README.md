@@ -29,7 +29,7 @@ The Harry Store strive to compile an annual sales report for the fiscal year 202
 </ul>
 
 <h2><p align="left"><b>Dashboard</b></h2>
-![alt text][https://github.com/[Bhoyar3]/[snapshot of harry project]/blob/[branch]/image.png?raw=true)
+![Image Alt text](https://github.com/Bhoyar3/Excel-project/blob/main/snapshot%20of%20harry%20project.PNG)
 
 
 <h2><p align="left"><b>Project Insight</b></p></h2>
